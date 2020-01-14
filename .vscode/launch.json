@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "CodeLens (Launch) - reverseString",
+            "request": "launch",
+            "mainClass": "reverseString",
+            "projectName": "repo_a49d8a4"
+        },
+        {
             "name": "(lldb) Launch",
             "type": "cppdbg",
             "request": "launch",
