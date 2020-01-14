@@ -1,0 +1,12 @@
+
+name = "Sanchez"
+
+# Get first char of string, get last char of string, set first char in temp
+# set last char to first char
+# set temp to last char
+# Continue to next index, Get last index of string - i
+# Get next index + i, get next last letter by subracting i 
+# Continue until end of string (increment i until end of string, or i = string length)
+
+String name = "Sanchez";
+
